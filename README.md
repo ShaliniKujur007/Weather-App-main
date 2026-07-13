@@ -148,6 +148,12 @@ git clone https://github.com/ShaliniKujur007/Weather-App-main.git
 cd weather-app
 ```
 
+## Open in your browser
+
+```
+https://weatherapp-sepia-psi.vercel.app/
+```
+
 ### Open the application
 
 Simply open **index.html** in your preferred web browser.
