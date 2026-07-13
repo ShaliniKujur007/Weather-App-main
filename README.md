@@ -133,3 +133,80 @@ Some planned improvements include:
 - Performance optimization
 
 ---
+
+# ▶️ Running the Project
+
+### Clone the repository
+
+```bash
+git clone https://github.com/your-username/weather-app.git
+```
+
+### Navigate to the project folder
+
+```bash
+cd weather-app
+```
+
+### Open the application
+
+Simply open **index.html** in your preferred web browser.
+
+No additional installation or dependencies are required.
+
+---
+
+
+
+# 📱 Responsive Design
+
+Optimized for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile Devices
+
+---
+
+# 📂 Project Goals
+
+The primary objectives of this project were to:
+
+- Practice front-end web development
+- Improve JavaScript skills
+- Build a responsive user interface
+- Learn project organization
+- Strengthen problem-solving abilities
+- Create a portfolio-ready project
+
+---
+
+
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+If you'd like to improve this project:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Commit your changes.
+4. Push to your branch.
+5. Open a Pull Request.
+
+---
+
+
+
+# 👩‍💻 Author
+
+**Shalini Kujur**
+
+- GitHub: https://github.com/ShaliniKujur007
+
+
+---
+
+⭐ If you found this project helpful, consider giving it a star!
